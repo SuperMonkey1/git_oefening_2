@@ -41,6 +41,9 @@ class _MyHomePageState extends State<MyHomePage> {
             Text(
               'feature 1 halfweg',
             ),
+            Text(
+              'feature 2 volledig klaar',
+            ),
           ],
         ),
       ),
