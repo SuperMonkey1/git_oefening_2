@@ -33,8 +33,15 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Text(widget.title),
       ),
       body: Center(
-        child: Text(
-          'created',
+        child: Column(
+          children: [
+            Text(
+              'created',
+            ),
+            Text(
+              'feature 1 halfweg',
+            ),
+          ],
         ),
       ),
     );
